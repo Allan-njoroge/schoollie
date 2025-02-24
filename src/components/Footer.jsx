@@ -87,7 +87,7 @@ const Footer = () => {
         </div>
       </div>
       <p className="text-center py-5 max-w-[1440px] border-t border-muted-foreground/50 mx-auto">
-        Copyright 2024 © Schoolie Technologies
+        Copyright {new Date().getFullYear()} © Schoolie Technologies
       </p>
     </div>
   );

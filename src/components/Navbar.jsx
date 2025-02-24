@@ -13,7 +13,6 @@ const Navbar = () => {
 
   // getting the location of the path
   let location = useLocation();
-  console.log(location.pathname);
 
   return (
     <div className="shadow-md shadow-muted-foreground/20">

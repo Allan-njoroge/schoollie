@@ -10,7 +10,7 @@ const Header = () => {
         <h3 className="my-3 text-muted-foreground text-lg">
           You can trust that your child is in good hands every step of the way
         </h3>
-        <Button variant="secondary" className="">PARENT SIGNUP</Button>
+        <Button className="border border-black">PARENT SIGNUP</Button>
       </div>
     </div>
   );

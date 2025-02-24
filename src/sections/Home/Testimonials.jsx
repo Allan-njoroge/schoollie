@@ -5,19 +5,19 @@ const Testimonials = () => {
     {
       image: PersonImg,
       comment:
-        "Zidallie has provided an excellent service for my school. Zidallie has taken care of my neurodiverse pupils and served them with dignity and honor. I highly recommend these service to schools. ",
+        "I am incredibly grateful for the outstanding support received. The team has shown deep understanding and commitment, making a real difference in our school community",
       name: "Alice Smith",
     },
     {
       image: PersonImg,
       comment:
-        "Thank you for your service, my son Noa really loves the driver assigned to his rides",
+        "The support provided has been outstanding. They have created a nurturing and inclusive environment where neurodiverse students feel valued and supported. Their professionalism and dedication are truly commendable.",
       name: "Jane Doe",
     },
     {
       image: PersonImg,
       comment:
-        "Thank you for taking care of my daughter. Before Zidallie we were really struggling with transport to his dance classes. You have served us well.",
+        "This service has been a game-changer for our school. The team’s ability to understand and cater to the unique needs of neurodiverse pupils has made a remarkable difference. Their approach is both compassionate and effective",
       name: "Alexa Adams",
     },
   ];
