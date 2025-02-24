@@ -43,7 +43,7 @@ const Footer = () => {
 
   return (
     <div className="bg-primary">
-      <div className="max-w-[1440px] px-5 md:px-10 mx-auto w-full py-10 gap-10 md:gap-20 grid md:flex justify-center">
+      <div className="max-w-[1440px] px-5 md:px-10 mx-auto w-full py-10 gap-10 md:gap-20 grid md:flex md:justify-center">
         <div>
           <h1 className="font-syne font-bold text-3xl">SCHOOLLIE</h1>
         </div>
